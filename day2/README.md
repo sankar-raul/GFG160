@@ -52,7 +52,7 @@ arr[] = [0, 0]
 ```
 > **Explanation:** No change in the array as there are all 0s.
 
-### 📏 Constraints:
+## 📏 Constraints:
 ```
 1 ≤ arr.size() ≤ 10^5
 ```
