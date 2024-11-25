@@ -18,9 +18,7 @@ class Solution {
         }
         for (i = n - 1; i > pivot; i--) {
             if (arr[i] > arr[pivot]) {
-                int temp = arr[i];
-                arr[i] = arr[pivot];
-                arr[pivot] = temp;
+                swap(arr[i], arr[pivot]);
                 break;
             }
         }
@@ -28,9 +26,7 @@ class Solution {
     }
     void reverse(vector<int> &arr, int start, int end) {
         while (start < end) {
-            int temp = arr[start];
-            arr[start++] = arr[end];
-            arr[end--] = temp;
+            swap(arr[start++], arr[end--]);
         }
     }
 };
