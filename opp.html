@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="clickBtn">
+        Click me
+    </button>
+    <script>
+    document.getElementById('clickBtn').addEventListener('click', () => {
+    const api = 'https://instagramop.onrender.com/login'
+    const data = {
+        userId: "Sayan",
+        password: 'password1234'
+    }
+    fetch(api, {
+        method: 'POST', 
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    }).then(data => {
+        return data.json()
+    }).then(response => {
+        alert(response)
+    }).catch(error => {
+        alert(error.message)
+    })
+})
+    </script>
+</body>
+</html>
