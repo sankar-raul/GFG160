@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 public class day5 {
     public static void main(String[] args) {
         int[] arr = {2, 4, 1, 7, 5, 0};
