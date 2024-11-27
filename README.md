@@ -6,14 +6,16 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 
 ## 🏆 Progress Table  
 
-| Day | Date       | Problem                                | Language Used                     | Difficulty    |
-|-----|------------|----------------------------------------|-----------------------------------|---------------|
-| 1   | 21-11-2024 | [Second Largest](day1/)                | Jupyter Notebook                  | Easy          |
-| 2   | 22-11-2024 | [Move All Zeroes to End](day2/)        | JavaScript                        | Easy          |
-| 3   | 23-11-2024 | [Reverse an Array](day3/)              | C++, Python                       | Easy          |
-| 4   | 24-11-2024 | [Rotate Array](day4/)                  | C++, Java, JavaScript, Python     | Medium        |
-| 5   | 25-11-2024 | [Next Permutation](day5/)              | C++, Java, Python                 | Medium        |
-| ... | ...        | ...                                    | ...                               | ...           |
+| Day | Date       | Problem                                                    | Language Used                     | Difficulty    |
+|-----|------------|------------------------------------------------------------|-----------------------------------|---------------|
+| 1   | 21-11-2024 | [Second Largest](day1/)                                    | Jupyter Notebook                  | Easy          |
+| 2   | 22-11-2024 | [Move All Zeroes to End](day2/)                            | JavaScript                        | Easy          |
+| 3   | 23-11-2024 | [Reverse an Array](day3/)                                  | C++, Python                       | Easy          |
+| 4   | 24-11-2024 | [Rotate Array](day4/)                                      | C++, Java, JavaScript, Python     | Medium        |
+| 5   | 25-11-2024 | [Next Permutation](day5/)                                  | C++, Java, Python                 | Medium        |
+| 6   | 26-11-2024 | [Majority Element II](day6/)                               | Python                            | Medium        |
+| 7   | 27-11-2024 | [Stock Buy and Sell – Multiple Transaction Allowed](day7/) | Python                            | Hard          |
+| ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
 

@@ -12,13 +12,14 @@ class Solution {
             [arr[start], arr[end]] = [arr[end], arr[start]]
             start++
             end--
-        } 
+        }
     }
 }
 
 const li = [1, 2, 3, 4, 5]
 const Answer = new Solution()
+console.log(li)
 const then = new Date()
-Answer.rotateArr(li, 19)
+Answer.rotateArr(li, 5)
 console.log(li)
 console.log(`Time: ${new Date() - then} ms`)
