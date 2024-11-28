@@ -14,7 +14,8 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 4   | 24-11-2024 | [Rotate Array](day4/)                                      | C++, Java, JavaScript, Python     | Medium        |
 | 5   | 25-11-2024 | [Next Permutation](day5/)                                  | C++, Java, Python                 | Medium        |
 | 6   | 26-11-2024 | [Majority Element II](day6/)                               | Python                            | Medium        |
-| 7   | 27-11-2024 | [Stock Buy and Sell – Multiple Transaction Allowed](day7/) | Python                            | Hard          |
+| 7   | 27-11-2024 | [Stock Buy and Sell – Multiple Transaction Allowed](day7/) | Python, JavaScript                | Hard          |
+| 8   | 28-11-2024 | [Stock Buy and Sell – Max one Transaction Allowed](day8/)  | Java, JavaScript                  | Easy          |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
