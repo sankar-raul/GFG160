@@ -12,6 +12,7 @@ class day8 {
             else
                 min = i;
         }
+    
         return res;
     }
     public static void main(String[] args) {
