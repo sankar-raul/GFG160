@@ -16,6 +16,7 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 6   | 26-11-2024 | [Majority Element II](day6/)                               | Python                            | Medium        |
 | 7   | 27-11-2024 | [Stock Buy and Sell – Multiple Transaction Allowed](day7/) | Python, JavaScript                | Hard          |
 | 8   | 28-11-2024 | [Stock Buy and Sell – Max one Transaction Allowed](day8/)  | Java, JavaScript                  | Easy          |
+| 9   | 29-11-2024 | [Minimize the Heights II](day9/)                           | Python                            | Medium        |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
