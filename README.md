@@ -20,6 +20,7 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 10  | 30-11-2024 | [Maximum Subarray Sum - Kadane's Algorithm](day10/)        | Python                            | Medium        |
 | 12  | 02-12-2024 | [Max Circular Subarray Sum](day12/)                        | C++                               | Hard          |
 | 13  | 03-12-2024 | [Smallest Positive Missing Number](day13/)                 | C++                               | Medium        |
+| 14  | 04-12-2024 | [Implement Atoi](day14/)                                   | C                                 | Medium        |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
