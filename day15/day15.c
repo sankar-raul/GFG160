@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<stdlib.h>
+
 int len(char *s1) {
     int length = 0;
     while (s1[length] != '\0') length++;
@@ -13,6 +16,11 @@ char* addBinary(char s1[], char s2[]) {
     idx1 = len(s1), idx2 = len(s2);
     int loop = idx1 - z1 > idx2 - z2 ? idx1 - z1 : idx2 - z2;
     while (loop) {
-        if (idx1)
+        loop--;
     }
+    return res;
+}
+void main() {
+     char s1[] = "1101", s2[] = "111";
+     printf("%s + %s = %s\n", s1, s2, "ok");
 }

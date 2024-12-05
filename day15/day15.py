@@ -3,7 +3,6 @@ def trimLeadingZeros(s):
     firstOne = s.find('1')
     return s[firstOne:] if firstOne != -1 else "0"
 class Solution:
-   
     def addBinary(self, s1, s2):
         s1 = trimLeadingZeros(s1)
         s2 = trimLeadingZeros(s2)
@@ -33,3 +32,7 @@ class Solution:
             result.append('1')
 
         return ''.join(result[::-1])
+
+if __name__ == "__main__":
+     s1, s2 = "1101", "111"
+     print(Solution().addBinary(s1, s2))
