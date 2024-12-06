@@ -22,6 +22,7 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 13  | 03-12-2024 | [Smallest Positive Missing Number](day13/)                 | C++                               | Medium        |
 | 14  | 04-12-2024 | [Implement Atoi](day14/)                                   | C                                 | Medium        |
 | 15  | 05-12-2024 | [Add Binary Strings](day15/)                               | Python                            | Medium        |
+| 16  | 06-12-2024 | [Anagram](day16/)                                          | Python, C++                       | Easy          |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
