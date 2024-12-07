@@ -23,6 +23,7 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 14  | 04-12-2024 | [Implement Atoi](day14/)                                   | C                                 | Medium        |
 | 15  | 05-12-2024 | [Add Binary Strings](day15/)                               | Python                            | Medium        |
 | 16  | 06-12-2024 | [Anagram](day16/)                                          | Python, C++                       | Easy          |
+| 17  | 07-12-2024 | [Non Repeating Character](day17/)                          | C++                               | Easy          |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
 > Table will be updated daily as I progress.
