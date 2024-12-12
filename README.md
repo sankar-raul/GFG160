@@ -24,6 +24,7 @@ This repository tracks my journey of solving problems daily for **160 days**, fo
 | 15  | 05-12-2024 | [Add Binary Strings](day15/)                               | Python                            | Medium        |
 | 16  | 06-12-2024 | [Anagram](day16/)                                          | Python, C++                       | Easy          |
 | 17  | 07-12-2024 | [Non Repeating Character](day17/)                          | C++                               | Easy          |
+| 18  | 08-12-2024 | [Search Pattern (KMP-Algorithm)](day18/)                   | Python                            | Medium        |
 | 21  | 11-12-2024 | [Sort 0s, 1s and 2s](day21/)                               | C++                               | Easy          |
 | ... | ...        | ...                                                        | ...                               | ...           |
 
